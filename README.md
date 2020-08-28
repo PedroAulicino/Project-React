@@ -1,5 +1,6 @@
-Run api fake = json-server server.json -p 
-3333
+Run api fake = 
+yarn global add json-server
+json-server server.json -p 
 
 
 Run React = yarn start or npm start
